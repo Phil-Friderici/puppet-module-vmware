@@ -23,6 +23,7 @@ See https://tickets.puppetlabs.com/browse/MODULES-2867 for more information.
 * OpenSuSE
 * SLE
 
+
 ## Parameters
 
 manage_repo
